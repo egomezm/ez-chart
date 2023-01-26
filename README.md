@@ -1,5 +1,5 @@
 
-# ez-chart
+# Ez-chart
 [![Files](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
 [![Repo Size](https://img.shields.io/github/repo-size/egomezm/repo-template)](https://github.com/egomezm/repo-template)
 [*](https://shields.io/)
