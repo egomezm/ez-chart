@@ -48,7 +48,7 @@ Start the server
 ## Usage/Examples
 
 ```javascript
-import Component from 'ez-chart'
+import EzChart from 'ez-chart'
 
 function App() {
   return <EzChart />
