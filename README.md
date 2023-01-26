@@ -1,23 +1,20 @@
 
-# Project Title
+# ez-chart
 [![Files](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
 [![Repo Size](https://img.shields.io/github/repo-size/egomezm/repo-template)](https://github.com/egomezm/repo-template)
 [*](https://shields.io/)
 
-A brief description of what this project does and who it's for
+This npm package will simplifiy the creations of charts on your webpage. Enhanced for React Apps, but could bu use on a vanilla html with some js.
 
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- 2 Axis Bar chart
 
 
 ## Documentation
 
-Info goes here...
+To enable this components on your app. follow the following instructions.
 
 
 ## Run Locally
@@ -25,13 +22,13 @@ Info goes here...
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/egomezm/ez-chart
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd [[your project folder]]
 ```
 
 Install dependencies
@@ -47,31 +44,14 @@ Start the server
 ```
 
 
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    ## Color Reference
-
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
-
 
 ## Usage/Examples
 
 ```javascript
-import Component from 'my-project'
+import Component from 'ez-chart'
 
 function App() {
-  return <Component />
+  return <EzChart />
 }
 ```
 
